@@ -1,3 +1,7 @@
+
+### Hello world, from termux user!👋
+<p align=left> <img src=https://komarev.com/ghpvc/?username=poisk-ls alt=poisk-ls /> </p>
+
 <img title="GIS" src="https://img.shields.io/badge/CODENAME%20-SIGIT-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="SIGIT" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=red&colorB=green&style=for-the-badge"> 
 <img src="https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/src/Screenshot_2021-04-26_01-22-35.jpeg">
 GIS - Gathering Information System
@@ -36,5 +40,6 @@ GIS - Gathering Information System
 |![Index](https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/src/1.jpg)|![f](https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/src/2.jpg)|
 
 - <i>picture by [@androidmalware](https://instagram.com/androidmalware)</i>
-### Credits
-Copyright © 2021 by <a href="https://facebook.com/termuxhackers.id">@termuxhackers.id</a>
+### Credits & Thanks to
+**https://github.com/termuxhackers-id/SIGIT**
+- **Copyright © 2021 by <a href="https://facebook.com/termuxhackers.id">@termuxhackers.id</a>**
