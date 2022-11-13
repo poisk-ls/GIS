@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
-# Author by @termuxhackers.id
-# Support me with follow my facebook page https://fb.me/termuxhackers.id
+# My Github poisk-ls
+# Follow my facebook https://facebook.com/speedy.mmsc80.thugs
 # Disclaimer: please dont re-edit or recode the original source code !
 # Last update: 21/09/2022 - version 1.0
 
@@ -53,9 +53,9 @@ logo = f"""{b}
       !KKKKKKKKKKKqC;-               -;CqKKKKKKKKKKK!
       <KKKKKKKKkr,                       ,rSKKKKKKKK<
        -"v]qj;-                             -;jq]v"-
-                       {w}[ S.I.G.I.T ]{b}
+                       {w}[ G.I.S ]{b}
            {d}Simple Information Gathering Toolkit{w}
-               {d}Author by {w}{r}@Termuxhackers.id{w}"""
+               {d}My Github  {w}{r}poisk-ls{w}"""
 
 def menu():
     os.system("clear")
