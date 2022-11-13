@@ -1,6 +1,6 @@
-<img title="SIGIT" src="https://img.shields.io/badge/CODENAME%20-SIGIT-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="SIGIT" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> 
+<img title="GIS" src="https://img.shields.io/badge/CODENAME%20-SIGIT-SCRIPT?colorA=grey&colorB=green&style=for-the-badge"> <img title="SIGIT" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=red&colorB=green&style=for-the-badge"> 
 <img src="https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/src/Screenshot_2021-04-26_01-22-35.jpeg">
-SIGIT - Simple Information Gathering Toolkit
+GIS - Gathering Information System
 
 ### Features
 - ```userrecon```    - username reconnaissance
@@ -16,15 +16,16 @@ SIGIT - Simple Information Gathering Toolkit
 - ```riplookup``` - reverse ip lookup
 - ```iplocation``` - ip to location tracker
 
-### Setup
-- Installation on termux
-```bash
-pkg install wget && wget https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/install.sh && bash install.sh
-```
-- Installation on kali linux
-```bash
-apt-get install wget && wget https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/installkali.sh && bash installkali.sh
-```
+### Installation on termux
+>``bash``
+>
+>-pkg install wget && wget https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/install.sh && bash install.sh
+
+### Installation on kali linux
+>``bash``
+>
+>-apt-get install wget && wget https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/installkali.sh && bash installkali.sh
+
 - Uninstallation
 - termux: ```rm -rf $PREFIX/bin/sigit```
 - kali  : ```rm -rf /usr/local/bin/sigit```
